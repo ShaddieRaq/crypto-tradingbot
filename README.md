@@ -11,12 +11,7 @@ This repository contains a simple cryptocurrency trading bot. It is organized wi
    source venv/bin/activate
    pip install -r requirements.txt
    ```
-   This installs packages like `requests`, `pandas`, and `ccxt`.
-3. Run the bot using the module entry point.
-   ```bash
-   python -m tradingbot
-   ```
-   This prints a placeholder message confirming that the bot is initialized.
+3. Run the bot from the `src/` directory as needed.
 
 ## Development Guidelines
 
