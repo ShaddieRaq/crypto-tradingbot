@@ -18,4 +18,4 @@ This repository contains a simple cryptocurrency trading bot. It is organized wi
 - Keep all source code inside the `src/` directory.
 - Place unit tests under the `tests/` directory and use `pytest` for running them.
 - Update documentation in the `docs/` directory when necessary.
-- Follow standard Python coding practices and write clear commit messages.
+- Follow standard Python coding practices and write clear, descriptive commit messages (see `CONTRIBUTING.md` for examples).
