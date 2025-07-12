@@ -11,10 +11,14 @@ This repository contains a simple cryptocurrency trading bot. It is organized wi
    source venv/bin/activate
    pip install -r requirements.txt
    ```
-3. Run the bot from the `src/` directory as needed.
-
+3. Run the bot with `python src/trading_bot.py` to fetch the latest BTC price.
 ## Project Structure
 
 - `src/` - source code for the trading bot
 - `tests/` - unit tests for validating bot functionality
 - `docs/` (optional) - additional project documentation
+- Keep all source code inside the `src/` directory.
+- Place unit tests under the `tests/` directory and use `pytest` for running them.
+- Update documentation in the `docs/` directory when necessary.
+- Follow standard Python coding practices and write clear commit messages.
+- Run tests with `pytest`.
