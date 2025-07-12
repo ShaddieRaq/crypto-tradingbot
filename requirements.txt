@@ -1,1 +1,3 @@
-# Placeholder for package requirements
+requests
+pandas
+ccxt
